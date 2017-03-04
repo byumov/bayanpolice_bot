@@ -7,6 +7,7 @@ sudo apt update; sudo apt install -y python3 python3-pip; sudo pip3 install pyTe
 Get API key from @BotFather - https://core.telegram.org/bots#botfather
 ### Run
 From command line: `python3 run_bot.py "YOUR_API_KEY"`
+
 Docker:
 ```
 cd bayanpolice_bot
