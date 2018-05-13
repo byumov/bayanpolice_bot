@@ -1,4 +1,4 @@
-bayanpolice_bot is a simple bot for Telergam.
+@Bayanpolice_bot is a simple bot for Telergam.
 Bot parse all messages in chat and send funny images.
 ### Requirements
 ```
