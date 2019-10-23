@@ -1,12 +1,17 @@
+# Bayan police bot
+
 @Bayanpolice_bot is a simple bot for Telergam.
-Bot parse all messages in chat and send funny images.
+
+The bot parse all messages in group and send funny images.
 ### Requirements
-```
-sudo apt update; sudo apt install -y python3 python3-pip; sudo pip3 install pyTelegramBotAPI
-```
-Get API key from @BotFather - https://core.telegram.org/bots#botfather
-### Run
-From command line: 
+
+* python > 3
+* pyTelegramBotAPI
+* API key from @BotFather - https://core.telegram.org/bots#botfather
+
+### Quick start
+
+Linux: 
 ```
 git clone https://github.com/byumov/bayanpolice_bot/
 cd bayanpolice_bot
