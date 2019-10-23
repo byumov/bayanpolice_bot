@@ -2,7 +2,7 @@
 
 @Bayanpolice_bot is a simple bot for Telergam.
 
-The bot parse all messages in group and send funny images.
+Bot parses all messages in group and send funny images.
 ### Requirements
 
 * python > 3
